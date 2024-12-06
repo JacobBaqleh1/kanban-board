@@ -1,4 +1,4 @@
-# kanban-board📝
+# Kanban Board📝
 ## Live URL 
 Link: https://kanban-board-1zk5.onrender.com
 
